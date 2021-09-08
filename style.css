@@ -7,6 +7,11 @@
 	margin-right: 3rem;
 	
 }
+a{
+	cursor: pointer;
+	color: deepskyblue;
+	text-decoration: none;
+}
 .center{
 	text-align: center;
 }
